@@ -15,6 +15,6 @@ else:
 
 if g <= h: #
     print(g)
-
+    
 else:
     print(h)
